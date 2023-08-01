@@ -2,7 +2,9 @@
 
 
 sdk ключ должен находиться в example/android/app/src/main/assets/dgissdk.key
+
 версия flutter 2.10.5
+
 запускать flutter проект из папки example
 
 Plugin sdk 2gis
